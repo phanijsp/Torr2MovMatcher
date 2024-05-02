@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="runtime_registry_compatibility">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.conda/libnvvp/plugins/org.eclipse.core.runtime.compatibility.registry_3.5.300.v20140128-0851/runtime_registry_compatibility.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

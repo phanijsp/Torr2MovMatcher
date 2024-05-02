@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.nvidia.cuda.repo-1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.conda/nsightee_plugins/com.nvidia.cuda.repo-1.0.0-SNAPSHOT.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
